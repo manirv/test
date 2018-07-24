@@ -1,6 +1,6 @@
 pipeline:
     deploy:
-        image: manirv/test:0.1
+        image: druuu/dsin100days:0.1
         pull: true
         commands:
             - ls
